@@ -1,0 +1,23 @@
+# boss总结的能力需求
+1. imu gps camera 多传感器融合？
+2. vio, slam, 3d视觉
+
+
+
+# 综述总结的知识点
+1. 多线激光雷达slam -- 论文框架：LOAM: Lidar Odometry and Mapping in Real-time
+
+
+疑问：基于slam和imu的，是不是叫多传感器的slam优化算法
+
+
+
+Todo
+学习《知乎 -- LOAM-SLAM原理深度解析》，阅读 论文 LOAM: Lidar Odometry and Mapping in Real-time
+实现 github 基于 LOAM框架的项目
+百度云课程
+    a. 激光slam从理论到事件
+    b. 多传感器融合
+书 视觉slam 14 讲 
+wiki -- LIO? 
+学习《知乎 -- 激光雷达SLAM算法大全》专栏
