@@ -6,7 +6,11 @@
 
 # 综述总结的知识点
 1. 多线激光雷达slam -- 论文框架：LOAM: Lidar Odometry and Mapping in Real-time
+2. 里程计odometry
 
+
+Learining：
+1. 运动补偿
 
 疑问：基于slam和imu的，是不是叫多传感器的slam优化算法
 
